@@ -32,10 +32,10 @@ This laboratory requires the attacker to successfully chain multiple vulnerabili
 3. Set the Network Adapter to **NAT** or **Bridged** mode.
 4. Boot the machine and identify its IP address on your local network using tools like `netdiscover` or `nmap`.
 
-📥 **Download Link:** [Insert MEGA Link Here]
+📥 **Download Link:** [Insert MEGA Link Here](https://mega.nz/file/39gxDACY#RWSYsva8Kt3l8fBLQyj50H1URebeHKHCU6G_sK-Y_ZI)
 
 ## Author
-[cite_start]**Berat Arda Şişko** * Information Security Technology Student [cite: 7] [cite_start]& Cyber Security Club Co-Founder[cite: 8].
+**Berat Arda Şişko** - beratardas
 * Dedicated to offensive security, digital forensics, and Active Directory exploitation.
 * [LinkedIn](https://linkedin.com/in/beratardasisko-92bab3329) | [TryHackMe](https://tryhackme.com/p/beratarda3443) | [HackTheBox](https://profile.hackthebox.com/profile/019d4925-1dbf-722f-829d-678344aecdc6)
 
